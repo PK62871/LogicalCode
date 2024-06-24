@@ -1,0 +1,5 @@
+class A {  
+    static public void main(String... args) {  
+        System.out.print("hello java4");  
+    }  
+}; // This semicolon is redundant but allowed
